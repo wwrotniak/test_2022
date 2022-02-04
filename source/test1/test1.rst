@@ -8,7 +8,7 @@ Test 1
    :maxdepth: 3
    
    test2/test2
-   :doc:`forgottenpassword </doc/blob/master/source/Gstarted/forgottenpassword.rst>`
+   :doc:`forgottenpassword <../forgottenpassword>`
    
    
 
