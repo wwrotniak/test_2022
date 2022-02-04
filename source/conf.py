@@ -36,9 +36,9 @@ extensions = [
 
 intersphinx_mapping = {
     # Links to Doc project.
-    'dolores': ('https://www.cf-docs.cf/en/latest', None),
+    'cf-docs': ('https://www.cf-docs.cf/en/latest', None),
     # Links to cf3 project.
-    'cf3': ('https://cloudferro-cf3.readthedocs-hosted.com/en/latest', None),
+    'cloudferro-cf3': ('https://cloudferro-cf3.readthedocs-hosted.com/en/latest', None),
 }
 
 # Add any paths that contain templates here, relative to this directory.
@@ -61,8 +61,4 @@ html_theme = 'sphinx_rtd_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-html_logo = "logo.svg"
-html_theme_options = {
-    'logo_only': True,
-    'display_version': False,
 }
