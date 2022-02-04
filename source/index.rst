@@ -20,7 +20,7 @@ Guide:
    :maxdepth: 2
    
    test1/test1
-   :external:doc:`forgottenpassword`
+   :doc: `https://www.cf-docs.cf/en/latest/Gstarted/forgottenpassword.html` 
    
    
  
