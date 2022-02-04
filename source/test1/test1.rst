@@ -8,6 +8,6 @@ Test 1
    :maxdepth: 3
    
    test2/test2
-   :external:reftype:`cf-docs`
+   :external:doc:`cf-docs`
    
    
