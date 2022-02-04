@@ -20,6 +20,7 @@ Guide:
    :maxdepth: 2
    
    test1/test1
+   :external:doc:`forgottenpassword`
    
    
  
