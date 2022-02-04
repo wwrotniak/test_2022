@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'test_2022'
+project = 'cf-docs'
 copyright = '2021, CloudFerro'
 author = 'CloudFerro'
 
